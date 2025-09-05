@@ -121,4 +121,3 @@ Este projeto é apenas para fins educacionais e de aprendizado pessoal.
 
 ---
 
-**Desenvolvido com ❤️ seguindo as aulas do Professor Gustavo Guanabara**
